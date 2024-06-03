@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The Grade Analyzer is a JavaScript project designed to take an array of assignment grades and calculate various metrics. These metrics include the total points earned, average score, highest score, lowest score, and a determination of whether the average score constitutes a passing grade. The results are returned in a structured JSON format.
+The Grade Analyzer is a JavaScript project designed to take an array of assignment grades and calculate various metrics. These metrics include the total points earned, average points, highest points, lowest points, and a determination of whether the average points constitutes a passing grade. The results are returned in a structured JSON format.
 
 ## Features
 
@@ -26,5 +26,5 @@ Enter grades into the input field, separated by commas.
 
 Click the "Submit Grades" button.
 
-View the results displayed on the page, including total points, average score, highest score, lowest score, and passing determination.
+View the results displayed on the page, including total points, average points, highest points, lowest points, and passing determination.
 
