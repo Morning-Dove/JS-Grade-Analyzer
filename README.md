@@ -11,9 +11,13 @@ Lowest Grade: The minimum grade achieved.
 Passing Determination: Based on an average grade, determines if the overall grade is passing (60% or higher is considered passing).
 
 ## Usage
-Clone the repository:
+Clone the repository.
+
 Open the index.html file in your web browser.
+
 Enter grades into the input field, separated by commas.
+
 Click the "Submit Grades" button.
+
 View the results displayed on the page, including total points, average score, highest score, lowest score, and passing determination.
 
