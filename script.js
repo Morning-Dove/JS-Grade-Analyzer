@@ -1,4 +1,4 @@
-const inputGrading = () => {
+const displayGrading = () => {
     document.getElementById("gradingBtn").addEventListener("click", (e) => {
     let gradesInput = document.getElementById("grades").value;
     let input = gradesInput.split(",").map((string) => Number(string));
@@ -28,7 +28,7 @@ function grades(input){
     for (let i=0; i<input.length; i++){
         totalValue += input[i];
 
-        if (output["Average"] >= 60){
+        if (output.Average >= 60){
             passingValue = true;
         }else{
             passingValue = false;
@@ -46,5 +46,5 @@ function grades(input){
 }
 
 
-inputGrading();
+displayGrading();
 
