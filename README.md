@@ -1,3 +1,4 @@
+This is the link to view this page through GitHub Pages: https://morning-dove.github.io/JS-Grade-Analyzer/
 # Grade Analyzer
 
 ## Project Description
